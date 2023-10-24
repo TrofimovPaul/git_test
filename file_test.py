@@ -26,3 +26,5 @@ print('\n')
 calculator(3,'/',2)
 print('\n')
 calculator()
+
+print('Done!')
